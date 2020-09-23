@@ -1,3 +1,9 @@
+libncicore (1.1.17~ubports16.04.1) xenial; urgency=low
+
+  * Import into UBports repos
+
+ -- Alfred Neumayer <dev.beidl@gmail.com>  Fri, 15 Jan 2021 15:31:05 +0200
+
 libncicore (1.1.17) unstable; urgency=low
 
   * Improved NFC-DEP compatibility
